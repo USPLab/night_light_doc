@@ -4,6 +4,7 @@
 # Git files
 !.gitignore
 !.gitattributes
+!.nojekyll
 
 # Markdown user manual
 !/*.md
