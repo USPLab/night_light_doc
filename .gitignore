@@ -4,7 +4,6 @@
 # Git files
 !.gitignore
 !.gitattributes
-!.nojekyll
 
 # Markdown
 !/*.md
