@@ -6,8 +6,9 @@
 !.gitattributes
 !.nojekyll
 
-# Markdown user manual
+# Markdown/HTML user manual
 !/*.md
+!/*.html
 
 # Images for user manual
 !/img/
