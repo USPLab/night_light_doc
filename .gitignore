@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Git files
+!.gitignore
+!.gitattributes
+
+# Markdown user manual
+!/*.md
+
+# Images for user manual
+!/img/
+!/img/*.png
