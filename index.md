@@ -66,16 +66,16 @@ title: Night Light – Bedienungsanleitung
 - Einfach nichts Dummes damit machen...
 
 ## 5. Technische Daten
-| Parameter | Wert |
-| --- | ---: |
-| U<sub>Max</sub> | 5.5V |
-| U<sub>Low</sub> | 3.2V |
-| U<sub>Shutdown</sub> | 3.0V |
-| I<sub>Run-max</sub> | 100mA |
-| I<sub>Standby</sub> | 100µA |
-| Betriebstemperatur | 0...40°C |
-| Abmaße | 150x150x128mm |
-| Gewicht | 675g (Mit Batterien) |
+ | Parameter | Wert |
+ | --- | ---: |
+ | U<sub>Max</sub> | 5.5V |
+ | U<sub>Low</sub> | 3.2V |
+ | U<sub>Shutdown</sub> | 3.0V |
+ | I<sub>Run-max</sub> | 100mA |
+ | I<sub>Standby</sub> | 100µA |
+ | Betriebstemperatur | 0...40°C |
+ | Abmaße | 150x150x128mm |
+ | Gewicht | 675g (Mit Batterien) |
 
 ---
 
