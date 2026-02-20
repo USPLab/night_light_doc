@@ -11,7 +11,7 @@ title: Night Light – Bedienungsanleitung
 - [Deutsch](#deutsch)
 - [English](#english)
 
-![banner](img/night_light.png)
+![banner](/night_light_doc/img/night_light.png)
 
 ---
 
