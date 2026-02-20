@@ -4,8 +4,9 @@
 # Git files
 !.gitignore
 !.gitattributes
+!.nojekyll
 
-# Markdown/HTML user manual
+# Markdown
 !/*.md
 
 # Images for user manual
