@@ -16,7 +16,7 @@ title: Night Light – Bedienungsanleitung
 
 ## Deutsch
 
-### 0. Inhaltsverzeichnis
+### Inhaltsverzeichnis
 - [1. Inbetriebnahme](#1-inbetriebnahme)
 - [2. Bedienung](#2-bedienung)
 - [3. Hinweise](#3-hinweise)
@@ -62,7 +62,7 @@ title: Night Light – Bedienungsanleitung
 - LED Licht nur in trockener und warmer Umgebung betreiben.
 - Nicht das Gehäuse öffnen.
 - Keine metallischen Gegenstände in Öffnungen stecken.
-- Nicht herumwerfen, verbrennen, essen, ...
+- Nicht herumwerfen, verbrennen oder essen.
 - Einfach nichts Dummes damit machen...
 
 ## 5. Technische Daten
@@ -81,10 +81,70 @@ title: Night Light – Bedienungsanleitung
 ---
 
 ## English
-tbd
+
+### Table of contents
+- [1. Initial setup](#1-initial-setup)
+- [2. Operation](#2-operation)
+- [3. Notes](#3-notes)
+- [4. Safety](#4-safety)
+- [5. Technical data](#5-technical-data)
+
+## 1. Initial setup
+1. Insert the batteries
+*Please use only AA batteries with a voltage of 1.5V.*
+
+2. The LEDs light up green while the touch sensor calibrates.
+*Do not touch the touch urface while the LEDs are green.*
+![green_blink_1x](img/green_blink_1x.png)
+
+3. The LEDs turn off again. The night light is ready to use.
+## 2. Operation
+- Tap the gold surface once briefly: Light goes ON/OFF (tap <1s)
+![finger_hand_tap_1x](img/finger_hand_tap_1x.png)
+
+- Touch and hold the gold surface: Light color changes... (tap >1s)
+![finger_hand_tap_long](img/finger_hand_tap_long.png)
+
+- Tap the gold surface twice briefly: BRIGHT/DIM adjustment (2 taps within 1s)
+![finger_hand_tap_2x](img/finger_hand_tap_2x.png)
+
+- Tap the gold surface five times briefly: Party mode...
+
+## 3. Notes
+- The light blinks red twice during operation: Battery low (blink interval 60s)
+![red_blink_2x](img/red_blink_2x.png)
+
+- When inserting “new” batteries into the battery compartment, the LEDs blink red five times: Battery low
+![red_blink_5x](img/red_blink_5x.png)
+
+- When inserting “new” batteries into the battery compartment and the LEDs remain off: Batteries are dead
+
+- After 3 hours without any touch interaction, the light turns off automatically (Party mode timeout: 6h)
+
+## 4. Safety
+- Do not insert batteries with incorrect polarity.
+- Use only AA batteries with 1.5V.
+- Operate the LED light only in a dry and warm environment.
+- Do not open the housing.
+- Do not insert metallic objects into any openings.
+- Do not throw, burn, or eat the device.
+- Simply don’t do anything stupid with it…
+
+## 5. Technical data
+
+| Parameter             | Value                 |
+| --------------------- | --------------------- |
+| U <sub>Max</sub>      | 5.5V                  |
+| U <sub>Low</sub>      | 3.2V                  |
+| U <sub>Shutdown</sub> | 3.0V                  |
+| I <sub>Run-max</sub>  | 100mA                 |
+| I <sub>Standby</sub>  | 100µA                 |
+| Operating temperature | 0...40°C              |
+| Dimensions            | 150×150×128mm         |
+| Weight                | 675g (with batteries) |
 
 ---
 © 2025 USPLab – Daniel Ullrich  
 Support: usplab.design@gmail.com
 
-v0.2
+v0.3
