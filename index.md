@@ -55,7 +55,7 @@ title: Night Light – Bedienungsanleitung
 
 ## 4. Sicherheit
 - Batterien nicht falsch herum einlegen.
-- Nur AA-Batterien mit 1.5V verwenden.
+- Nur AA-Batterien mit 1,5V verwenden.
 - LED Licht nur in trockener und warmer Umgebung betreiben.
 - Nicht das Gehäuse öffnen.
 - Keine metallischen Gegenstände in Öffnungen stecken.
