@@ -95,6 +95,7 @@ title: Night Light – Bedienungsanleitung
 ![green_blink_1x](img/green_blink_1x.png)
 
 3. When the LEDs turn off again the night light is ready to use.
+
 ## 2. Operation
 - Tap the gold surface once briefly: Light goes ON/OFF (tap <1s)
 ![finger_hand_tap_1x](img/finger_hand_tap_1x.png)
