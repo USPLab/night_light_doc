@@ -5,14 +5,11 @@ title: Night Light – Bedienungsanleitung
 
 # Nachtlicht / Night light
 
----
-
 ### Sprache/Language:
 - [Deutsch](#deutsch)
 - [English](#english)
 
 ![banner](img/night_light.png)
----
 
 ## Deutsch
 
@@ -28,7 +25,7 @@ title: Night Light – Bedienungsanleitung
 *Bitte verwenden Sie ausschließlich Batterien mit der Größe AA und einer Spannung von 1,5V.*
 
 2. LEDs leuchten grün, der Touch Sensor kalibriert sich.
-*Während die LEDs grün leuchten, Touch Oberfläche nicht berühren*
+*Während die LEDs grün leuchten, Touch Oberfläche nicht berühren.*
 ![green_blink_1x](img/green_blink_1x.png)
 
 3. LEDs gehen wieder aus. Das Nachtlicht ist betriebsbereit.
@@ -54,7 +51,7 @@ title: Night Light – Bedienungsanleitung
 
 - Beim einlegen "neuer" Batterien ins Batteriefach bleiben die LEDs aus: Batterien tot
 
-- Nach 3 Stunden ohne Touch Berührung geht das Licht von alleine aus (Party Modus timeout: 6h)
+- Nach 3 Stunden ohne Touch Berührung geht das Licht von alleine aus. (Party Modus timeout: 6h)
 
 ## 4. Sicherheit
 - Batterien nicht falsch herum einlegen.
@@ -119,7 +116,7 @@ title: Night Light – Bedienungsanleitung
 
 - When inserting “new” batteries into the battery compartment and the LEDs remain off: Batteries are dead
 
-- After 3 hours without any touch interaction, the light turns off automatically (Party mode timeout: 6h)
+- After 3 hours without any touch interaction, the light turns off automatically. (Party mode timeout: 6h)
 
 ## 4. Safety
 - Do not insert batteries with incorrect polarity.
