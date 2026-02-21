@@ -66,6 +66,7 @@ title: Night Light – Bedienungsanleitung
 - Einfach nichts Dummes damit machen...
 
 ## 5. Technische Daten
+
  | Parameter          | Wert                 |
  | ------------------ | -------------------: |
  | U~Max~             | 5.5V                 |
