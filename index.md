@@ -28,7 +28,7 @@ title: Night Light – Bedienungsanleitung
 *Während die LEDs grün leuchten, Touch Oberfläche nicht berühren.*
 ![green_blink_1x](img/green_blink_1x.png)
 
-3. LEDs gehen wieder aus. Das Nachtlicht ist betriebsbereit.
+3. Wenn die LEDs wieder aus gehen, ist das Nachtlicht betriebsbereit.
 
 ## 2. Bedienung
 - Einmal kurz auf die goldene Oberfläche tippen: Licht geht AN/AUS (Tippen <1s)
@@ -87,14 +87,14 @@ title: Night Light – Bedienungsanleitung
 - [5. Technical data](#5-technical-data)
 
 ## 1. Initial setup
-1. Insert the batteries
+1. Insert the batteries.
 *Please use only AA batteries with a voltage of 1.5V.*
 
 2. The LEDs light up green while the touch sensor calibrates.
-*Do not touch the touch urface while the LEDs are green.*
+*Do not touch the touch surface while the LEDs are green.*
 ![green_blink_1x](img/green_blink_1x.png)
 
-3. The LEDs turn off again. The night light is ready to use.
+3. When the LEDs turn off again the night light is ready to use.
 ## 2. Operation
 - Tap the gold surface once briefly: Light goes ON/OFF (tap <1s)
 ![finger_hand_tap_1x](img/finger_hand_tap_1x.png)
